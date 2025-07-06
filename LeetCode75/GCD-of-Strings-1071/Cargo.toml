@@ -1,0 +1,6 @@
+[package]
+name = "GCD-of-Strings-1071"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

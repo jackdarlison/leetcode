@@ -1,0 +1,6 @@
+[package]
+name = "max-k-sum-pairs-1679"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

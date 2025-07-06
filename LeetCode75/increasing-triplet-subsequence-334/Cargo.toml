@@ -1,0 +1,6 @@
+[package]
+name = "increasing-triplet-subsequence-334"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
