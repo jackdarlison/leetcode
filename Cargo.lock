@@ -15,6 +15,14 @@ name = "container-with-most-water-11"
 version = "0.1.0"
 
 [[package]]
+name = "find-pivot-index-724"
+version = "0.1.0"
+
+[[package]]
+name = "highest-altitude-1732"
+version = "0.1.0"
+
+[[package]]
 name = "increasing-triplet-subsequence-334"
 version = "0.1.0"
 
@@ -27,7 +35,23 @@ name = "kids-and-greatest-candies-1431"
 version = "0.1.0"
 
 [[package]]
+name = "longest-subarray-of-1-after-delete-1493"
+version = "0.1.0"
+
+[[package]]
+name = "max-consecutive-ones-III-1004"
+version = "0.1.0"
+
+[[package]]
 name = "max-k-sum-pairs-1679"
+version = "0.1.0"
+
+[[package]]
+name = "maximum-average-subarray-643"
+version = "0.1.0"
+
+[[package]]
+name = "maximum-vowels-1456"
 version = "0.1.0"
 
 [[package]]
