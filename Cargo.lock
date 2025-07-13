@@ -15,6 +15,14 @@ name = "container-with-most-water-11"
 version = "0.1.0"
 
 [[package]]
+name = "difference-two-arrays-2215"
+version = "0.1.0"
+
+[[package]]
+name = "equal-row-column-pairs-2352"
+version = "0.1.0"
+
+[[package]]
 name = "find-pivot-index-724"
 version = "0.1.0"
 
@@ -76,4 +84,12 @@ version = "0.1.0"
 
 [[package]]
 name = "string-compression-443"
+version = "0.1.0"
+
+[[package]]
+name = "two-close-strings-1657"
+version = "0.1.0"
+
+[[package]]
+name = "unique-number-occurences-1207"
 version = "0.1.0"

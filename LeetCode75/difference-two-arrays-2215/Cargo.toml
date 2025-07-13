@@ -1,0 +1,6 @@
+[package]
+name = "difference-two-arrays-2215"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
