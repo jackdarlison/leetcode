@@ -1,0 +1,6 @@
+[package]
+name = "maximum-vowels-1456"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
