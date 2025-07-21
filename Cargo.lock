@@ -7,11 +7,19 @@ name = "GCD-of-Strings-1071"
 version = "0.1.0"
 
 [[package]]
+name = "asteroid-collision-735"
+version = "0.1.0"
+
+[[package]]
 name = "can-place-flowers-605"
 version = "0.1.0"
 
 [[package]]
 name = "container-with-most-water-11"
+version = "0.1.0"
+
+[[package]]
+name = "decode-string-394"
 version = "0.1.0"
 
 [[package]]
@@ -71,7 +79,15 @@ name = "move-zeroes-283"
 version = "0.1.0"
 
 [[package]]
+name = "number-recent-cells-933"
+version = "0.1.0"
+
+[[package]]
 name = "product-array-except-self-238"
+version = "0.1.0"
+
+[[package]]
+name = "remove-stars-from-string-2390"
 version = "0.1.0"
 
 [[package]]
